@@ -22,7 +22,7 @@
 		<ul>
 	    	<li>
 				2007 - Universidade Federal do Rio de Janeiro (SEGRAC/UFRJ)
-			    <p>MBA in Project Management</p>
+			    <p>Master in Project Management</p>
 			</li>
 			<li>
 		    	2005 - Universidade Veiga de Almeida (UVA)
@@ -182,17 +182,17 @@
 	<h3>Development</h3>
 	<ul>
 		<li><strong>Analysis and Design:</strong> UML</li>
-		<li><strong>Implementation:</strong> ColdFusion, Fusebox, Coldbox, ASP, PHP, Ruby on Rails, 
+		<li><strong>Implementation:</strong> ColdFusion, Fusebox, Coldbox, ASP, PHP, Ruby on Rails,
 			JavaScript, AngularJS, DOJO, jQuery, Kendo UI, VBScript, Visual Basic/VB .Net,
 			HTML, CSS, Bootstrap, ,XML, SQL, C/C++, PL/SQL, T-SQL, Java, and Shell Script.
 		</li>
 		<li><strong>Databases:</strong> Oracle, Microsoft SQL Server, Sybase, MySQL, and PostgreSQL</li>
 		<li><strong>Operation Systems:</strong> Windows, Linux, Mac OS X, and Unix.</li>
-		<li><strong>Source Control:</strong> Microsoft Visual Source Safe(VSS), Subversion(SVN), 
+		<li><strong>Source Control:</strong> Microsoft Visual Source Safe(VSS), Subversion(SVN),
 			Git, IBM Rational ClearCase, and SCM IBM Rational Team Concert</li>
 		<li><strong>Tools:</strong> Adobe Dreamweaver, Eclipse, DBDesigner, VIM, TextMate,
 			ERWin, Macromedia HomeSite, Microsoft Project, Microsoft Visual Studio .Net,
-			TOAD, Sybase PowerDesigner, Oracle Designer, Microsoft Visio, 
+			TOAD, Sybase PowerDesigner, Oracle Designer, Microsoft Visio,
 			IBM Rational Team Concert, IBM Rational Functional Tester, IBM Rational Quality Manager,
 			Adobe Acrobat, Adobe LiveCycle, and FTP
 		</li>
