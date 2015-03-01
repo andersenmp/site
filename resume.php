@@ -182,7 +182,7 @@
 	<h3>Development</h3>
 	<ul>
 		<li><strong>Analysis and Design:</strong> UML</li>
-		<li><strong>Implementation:</strong> ColdFusion, Fusebox, Coldbox, ASP, PHP, Ruby on Rails,
+		<li><strong>Implementation:</strong> ColdFusion, Fusebox, FW/1, Coldbox, ASP, PHP, Ruby on Rails,
 			JavaScript, AngularJS, DOJO, jQuery, Kendo UI, VBScript, Visual Basic/VB .Net,
 			HTML, CSS, Bootstrap, ,XML, SQL, C/C++, PL/SQL, T-SQL, Java, and Shell Script.
 		</li>
