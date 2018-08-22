@@ -62,13 +62,13 @@ header("Pragma: no-cache");
 			<div class="topheader"></div>
 		</div>
 
-			<div class="five columns logo">
+			<!-- <div class="five columns logo">
 				<a href="<?php echo $urlSite; ?>">
 					<h1>
 						<span><?php echo $urlClean; ?> - Web Development Consulting</span>
-						<img src="<?php echo $urlImages; ?>logo.gif" alt="<?php echo $urlClean; ?> - Web Development Consulting" height="111" width="198">
+						 <img src="<?php echo $urlImages; ?>logo.gif" alt="<?php echo $urlClean; ?> - Web Development Consulting" height="111" width="198"> 
 					</h1>
 				</a>
-			</div>
+			</div> -->
 <!-- END HEADER --> 
 <?php include "menu.php"; ?>

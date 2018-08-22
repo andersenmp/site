@@ -3,18 +3,26 @@
 	<div class="section">
 		<h1>Who Am I?</h1>
 		<p>
-			I'm a Software Engineer passionate about innovation with extensive experience as a team leader and as a team member.
+			I am a Software Engineer/Architect passionate about technology with extensive experience as a team leader and as a team member. 
 		</p><p>
-			Fifteen years of experience in Information Technology, primarily in software development, testing and maintenance in a Web environment.
+			My main role is to work with clients to design or improve software, services, and processes. 
 		</p><p>
-			Project leadership experience following established coding conventions and project management methodologies. I combine excellent technical training with all-round international education and I know how to translate my theoretical knowledge in operation expertise.
+			More than fifteen years of experience in Information Technology, primarily in software development, testing and maintenance in a Web environment.
 		</p><p>
-			Creative problem solver and strong in customer relationship skills, flexible and adaptable, solid team-worker, self-organized, very professional, and committed to meeting deadlines.
+			Project leadership experience following established coding conventions and project management methodologies. 
+		</p><p>
+			I am a creative problem solver with strong customer relationship skills, flexible and adaptable, solid team-worker, self-organized, very professional, and committed to meeting deadlines.
 		</p>
 			<h3>Expertise</h3>
 		<p>
-			Web development, requirements analysis, software analysis and design, applications development and testing process.
+			Solutions & Applications architecture, Technical Project Lead & Management, Web development, Database design, Functional & Technical analysis
 		</p>
+		
+		<h3>Areas of interest</h3>
+		<p>
+			Service Oriented Architecture, Serverless computing, Microservices, Blockchain, Machine Learning, Programming Languages and Frameworks
+		</p>
+		
 		<hr/>
 
 	</div>

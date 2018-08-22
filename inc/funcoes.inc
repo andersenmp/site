@@ -23,9 +23,6 @@ if(!isset($_REQUEST['lang'])){
 $WhereAmI 		= $_SERVER["HTTP_HOST"];
 $localSite 		= substr($serverPath,0,strlen($serverPath)-strlen($pag));
 $urlClean		= "andersen.eti.br";
-if($WhereAmI=="localhost"){
-	$urlClean		= "~andersen/site";
-}
 $urlSiteLocal  	= ($WhereAmI!=$urlClean && $WhereAmI!="www.".$urlClean) ? "/".$urlClean."/" : "/" ;
 $urlSite  		= "http://".$WhereAmI.$urlSiteLocal; 
 $urlImages 		= $urlSite 		. "images/";
@@ -37,6 +34,6 @@ $urlJs	 		= $urlSite 		. "js/";
 
 $urlLink 		= $urlSite."?pag=";
 
-$emailWebmaster = "webmaster@andersen.eti.br";
+$emailWebmaster = "andersen.pecorone@atenta.eu";
 
 ?>

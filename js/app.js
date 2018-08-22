@@ -25,9 +25,9 @@ $(document).ready(function() {
 
 
 	$(document).ready(function() {
-    		$("body").css("display", "none");
+    		//$("body").css("display", "none");
  
-    		$("body").fadeIn(2000);
+    		//$("body").fadeIn(2000);
  
     		$("a.transition").click(function(event){
     		    event.preventDefault();

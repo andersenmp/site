@@ -21,6 +21,10 @@
 		<h3>Education</h3>
 		<ul>
 	    	<li>
+                2017 - Solvay Brussels School (ULB)
+                <p>Executive Master in IT Management</p>
+            </li>
+            <li>
 				2007 - Universidade Federal do Rio de Janeiro (SEGRAC/UFRJ)
 			    <p>Master in Project Management</p>
 			</li>
@@ -39,7 +43,8 @@
 
 		<h3>Certifications</h3>
 		<ul>
-	    	<li>Professional Scrum Master I by Scrum.org (2013)</li>
+	    	<li>COBIT 5 Foundation (2017)</li>
+			<li>Professional Scrum Master I by Scrum.org (2013)</li>
 	    	<li>Prince2 Practitioner by APMG-International (2013)</li>
 	    	<li>ITIL version 3 Foundation by Exin (2011)</li>
 	    	<li>Prince2 Foundation by APMG-International (2011)</li>
@@ -58,15 +63,31 @@
 	    <hr/>
 	    <h3>Work Experience</h3>
 	    <ul>
+	    	
 	    	<li>
-	    		<p><strong>Technical Project Leader and Test Leader</strong> at
+	    		<p><strong>Co-founder</strong> at
+	    		 <a href="http://www.atenta.eu/" target="new">Atenta</a>
+	    		 <br /><em>2015 to Present</em>
+	    		<p>
+	    	</li>
+
+	    	<li>
+	    		<p><strong>Solution Architect</strong> at
+	    		 <a href="http://www.eeas.europa.eu/" target="new">EEAS - European External Action Service</a> (former EC-DG RELEX)
+	    		 <br />Senior Consultant from <a href="http://www.atenta.eu/" target="new">Atenta</a>
+	    		 <br /><em>2015 to Present</em>
+	    		<p>
+	    	</li>
+
+	    	<li>
+	    		<p><strong>Technical Team Lead</strong> at
 	    		 <a href="http://www.eeas.europa.eu/" target="new">EEAS - European External Action Service</a> (former EC-DG RELEX)
 	    		 <br />Senior Consultant from <a href="http://www.altran.be/" target="new">Altran Belgium</a>
-	    		 <br /><em>2011 to Present</em>
+	    		 <br /><em>2011 to 2015</em>
 	    		<p>
 	    	</li>
 	    	<li>
-	    		<p><strong>Senior Analyst Programmer Coldfusion and Test Leader</strong> at
+	    		<p><strong>Senior Analyst Programmer Coldfusion and Test Team Lead</strong> at
 	    		 <a href="http://www.eeas.europa.eu/" target="new">European Commission - DG RELEX (External Relations) </a>
 	    		 <br />Senior Consultant from <a href="http://www.altran.be/" target="new">Altran Belgium</a>
 	    		 <br /><em>2008 to 2010</em>
@@ -182,8 +203,8 @@
 	<h3>Development</h3>
 	<ul>
 		<li><strong>Analysis and Design:</strong> UML</li>
-		<li><strong>Implementation:</strong> ColdFusion, Fusebox, FW/1, Coldbox, ASP, PHP, Ruby on Rails,
-			JavaScript, AngularJS, DOJO, jQuery, Kendo UI, VBScript, Visual Basic/VB .Net,
+		<li><strong>Implementation:</strong> ColdFusion, Fusebox, FW/1, Coldbox, ASP, Drupal, PHP, Python, Django, Flask,
+			JavaScript, AngularJS, DOJO, jQuery, Kendo UI, Visual Basic/VB .Net,
 			HTML, CSS, Bootstrap, ,XML, SQL, C/C++, PL/SQL, T-SQL, Java, and Shell Script.
 		</li>
 		<li><strong>Databases:</strong> Oracle, Microsoft SQL Server, Sybase, MySQL, and PostgreSQL</li>

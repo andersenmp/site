@@ -192,12 +192,12 @@ Description: HTML5 Theme
 
 
 .nav {
-    float: right;
+    float: left;
     display: block;
-    margin-top: 80px;
+    //margin-top: 80px;
     padding: 0 0 0 0;
     overflow: hidden;
-    //border-bottom: 1px solid #c1c1c1;
+    border-bottom: 1px solid #c1c1c1;
 }
 
 
